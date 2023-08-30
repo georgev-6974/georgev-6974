@@ -1,7 +1,7 @@
 - 👋 Hi, I’m George V./Geo.
 - 👀 I’m interested in coding
 - 🌱 I know Python, planning to learn more languages
-- 📫 Discord: @georgev_6974
+- 📫 Discord: @georgev6974
 
 <!---
 georgev-6974/georgev-6974 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
